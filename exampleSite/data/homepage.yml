@@ -19,7 +19,7 @@ feature:
   - name: Data Visualization
     icon: ti-package
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: 24h Service
+  - name: Data Analysis
     icon: ti-alarm-clock
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
   - name: Value For Money

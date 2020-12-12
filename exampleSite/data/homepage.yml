@@ -16,7 +16,7 @@ feature:
   - name: Business Analysis
     icon: ti-pulse
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Object Oriented
+  - name: Data Visualization
     icon: ti-package
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
   - name: 24h Service

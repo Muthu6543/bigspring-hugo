@@ -55,9 +55,9 @@ weight = 4
 [params]
 author = "Tanguy LE BARBER"
 contact_form_action = "#"
-copyright = "Power By [Tanguy LE BARBE] (https://www.linkedin.com/in/tanguylebarber/) Design By [Themefisher](https://themefisher.com/) Develop By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Power By [Tanguy LE BARBER](https://www.linkedin.com/in/tanguylebarber/) Design By [Themefisher](https://themefisher.com/) Develop By [Gethugothemes](https://gethugothemes.com/)"
 description = "Roadenn a consulting company for your digital transformation"
-footer_content = "Digital transformation & Change management Consulting Company"
+footer_content = "Digital transformation & Change management Consulting Company - We are French Tech Vietnam member"
 footer_menu_left = "Company"
 footer_menu_middle = "Product"
 footer_menu_right = "Support"

@@ -26,7 +26,7 @@ feature:
     icon: ti-zoom-in
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
   - name: Data Analytics
-    icon: ti-package
+    icon: ti-bar-chart
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
   - name: Robot Process Automation
     icon: ti-alarm-clock

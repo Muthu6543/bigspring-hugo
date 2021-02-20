@@ -20,7 +20,7 @@ feature:
     icon: ti-direction-alt
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
   - name: Lean Six Sigma
-    icon: ti-cloud-up
+    icon: ti-stats-up
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
   - name: Business Analysis
     icon: ti-pulse

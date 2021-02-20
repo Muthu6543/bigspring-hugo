@@ -29,7 +29,7 @@ feature:
     icon: ti-bar-chart
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
   - name: Robot Process Automation
-    icon: ti-alarm-clock
+    icon: ti-rocket
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
 service:
   enable: true

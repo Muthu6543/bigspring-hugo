@@ -23,7 +23,7 @@ feature:
     icon: ti-stats-up
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
   - name: Business Analysis
-    icon: ti-pulse
+    icon: ti-zoom-in
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
   - name: Data Analytics
     icon: ti-package

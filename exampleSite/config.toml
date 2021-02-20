@@ -36,7 +36,7 @@ name = "FTV Website"
 URL = "terms-conditions"
 name = "FTV Linkedin"
 [[menu.footer_right]]
-URL = "faq"
+URL = "https://twitter.com/FrenchTechViet"
 name = "FTV Twitter"
 [params]
 author = "Tanguy LE BARBER"

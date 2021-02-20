@@ -69,6 +69,10 @@ link = "plugins/slick/slick.min.js"
 enable = false
 preloader = ""
 [[params.social]]
+icon = "twitter"
+link = "https://twitter.com/tanguylebarber"
+title = "Twitter"
+[[params.social]]
 icon = "ti-linkedin"
 link = "https://www.linkedin.com/company/roadenn/"
 title = "linkedin"

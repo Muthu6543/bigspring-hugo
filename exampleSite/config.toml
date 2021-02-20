@@ -9,35 +9,42 @@ theme = "bigspring"
 title = "Roadenn"
 [markup.goldmark.renderer]
 unsafe = true
-[menu]
-main = []
 [[menu.footer_left]]
 URL = "#"
 name = "About Us"
+weight = 3
 [[menu.footer_left]]
 URL = "#"
-name = "Blog"
+name = "Quick Start"
+weight = 2
 [[menu.footer_left]]
-URL = "#"
-name = "Contact"
-[[menu.footer_middle]]
 URL = "pricing"
 name = "Pricing"
-[[menu.footer_middle]]
-URL = "#"
-name = "Platform"
+weight = 1
 [[menu.footer_middle]]
 URL = "#"
 name = "Features"
-[[menu.footer_right]]
-URL = "privacy-policy"
-name = "FTV Website"
+weight = 1
+[[menu.footer_middle]]
+URL = "#"
+name = "Platform"
+weight = 2
+[[menu.footer_middle]]
+URL = "pricing"
+name = "Pricing"
+weight = 3
 [[menu.footer_right]]
 URL = "terms-conditions"
-name = "FTV Linkedin"
+name = "Terms & Conditions"
+weight = 2
 [[menu.footer_right]]
 URL = "faq"
-name = "FTV Twitter"
+name = "FAQ"
+weight = 1
+[[menu.footer_right]]
+URL = "privacy-policy"
+name = "Privacy Policy"
+weight = 3
 [params]
 author = "Tanguy LE BARBER"
 contact_form_action = "#"

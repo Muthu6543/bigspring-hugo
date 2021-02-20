@@ -22,7 +22,7 @@ feature:
       condition
   - name: Lean Six Sigma
     icon: ti-stats-up
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: Smooth processes and remove impediments to improve your global efficiency
   - name: Business Analysis
     icon: ti-zoom-in
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil

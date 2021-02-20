@@ -13,15 +13,6 @@ feature:
   enable: true
   title: Something You Need To Know
   feature_item:
-  - name: Business Analysis
-    icon: ti-pulse
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Data Visualization
-    icon: ti-package
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Data Analysis
-    icon: ti-alarm-clock
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
   - name: Digital Transformation
     icon: ti-credit-card
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
@@ -30,6 +21,15 @@ feature:
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
   - name: Lean Six Sigma
     icon: ti-cloud-up
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+  - name: Business Analysis
+    icon: ti-pulse
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+  - name: Data Analytics
+    icon: ti-package
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+  - name: Robot Process Automation
+    icon: ti-alarm-clock
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
 service:
   enable: true

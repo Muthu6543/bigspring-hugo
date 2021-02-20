@@ -86,7 +86,7 @@ service:
       link: "#"
 screenshot:
   enable: true
-  title: Bring your digital transformation <br> to the next level with us
+  title: Experience the best <br> optimizations with us
   image: images/screenshot.png
 call_to_action:
   enable: true

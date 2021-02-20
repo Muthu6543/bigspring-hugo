@@ -14,7 +14,7 @@ feature:
   title: Something You Need To Know
   feature_item:
   - name: Digital Transformation
-    icon: ti-direction-alt
+    icon: ti-settings
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
   - name: Change Management
     icon: ti-direction-alt

@@ -91,9 +91,9 @@ screenshot:
 call_to_action:
   enable: true
   title: Ready to get started?
-  image: images/cta.svg
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-    eget amet, tempus eu at consecttur.
+  image: images/cta.png
+  content: 'We provide consultancy service and business introductions for BPO development.
+    Contact us to get a free consultation. '
   button:
     enable: true
     label: Contact Us

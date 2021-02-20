@@ -17,7 +17,7 @@ feature:
     icon: ti-direction-alt
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
   - name: Change Management
-    icon: ti-headphone-alt
+    icon: ti-direction-alt
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
   - name: Lean Six Sigma
     icon: ti-cloud-up

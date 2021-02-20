@@ -27,7 +27,7 @@ feature:
     content: Analyze deeper your business to improve your turnover and find cost optimization
   - name: Data Analytics
     icon: ti-bar-chart
-    content: 'Collect, process and analyze your data '
+    content: Collect, process and analyze your data to empower your business
   - name: Robot Process Automation
     icon: ti-rocket
     content: Improve process performances with digital and automation

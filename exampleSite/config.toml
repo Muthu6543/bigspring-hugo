@@ -33,7 +33,7 @@ name = "Features"
 URL = "https://frenchtechvietnam.com/"
 name = "FTV Website"
 [[menu.footer_right]]
-URL = "terms-conditions"
+URL = "https://www.linkedin.com/company/frenchtechvietnam"
 name = "FTV Linkedin"
 [[menu.footer_right]]
 URL = "https://twitter.com/FrenchTechViet"

@@ -8,7 +8,7 @@ banner:
   button:
     enable: true
     label: Contact With Us
-    link: "#"
+    link: https://www.roadenn.com/contact/
 feature:
   enable: true
   title: Something You Need To Know

@@ -30,7 +30,7 @@ feature:
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
   - name: Robot Process Automation
     icon: ti-rocket
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: Improve process performances with digital and automation
 service:
   enable: true
   service_item:

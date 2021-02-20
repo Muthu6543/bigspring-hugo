@@ -73,6 +73,6 @@ icon = "ti-linkedin"
 link = "https://www.linkedin.com/company/roadenn/"
 title = "Linkedin"
 [[params.social]]
-icon = "ti-twitter"
+icon = "ti-twitter-alt"
 link = "https://twitter.com/tanguylebarber"
 title = "Twitter"

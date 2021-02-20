@@ -9,6 +9,8 @@ theme = "bigspring"
 title = "Roadenn"
 [markup.goldmark.renderer]
 unsafe = true
+[menu]
+main = []
 [[menu.footer_left]]
 URL = "#"
 name = "About Us"
@@ -36,14 +38,6 @@ name = "FTV Linkedin"
 [[menu.footer_right]]
 URL = "faq"
 name = "FTV Twitter"
-[[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 1
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 3
 [params]
 author = "Tanguy LE BARBER"
 contact_form_action = "#"

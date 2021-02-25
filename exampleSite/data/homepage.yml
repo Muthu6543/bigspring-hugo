@@ -7,8 +7,8 @@ banner:
     dans un contexte économique en constante évolution '
   button:
     enable: true
-    label: Contactez-nous
-    link: https://www.roadenn.com/contact/
+    label: Contactez-Nous
+    link: https://meetings.hubspot.com/tanguylebarber
 feature:
   enable: true
   title: Comment Nous Aidons Nos Clients
@@ -99,5 +99,5 @@ call_to_action:
     pour le développement de BPO. Contactez-nous pour obtenir une consultation gratuite. '
   button:
     enable: true
-    label: Contactez-nous
-    link: contact
+    label: Contactez-Nous
+    link: https://meetings.hubspot.com/tanguylebarber

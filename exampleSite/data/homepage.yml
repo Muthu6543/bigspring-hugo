@@ -7,7 +7,7 @@ banner:
     dans un contexte économique en constante évolution '
   button:
     enable: true
-    label: Contact With Us
+    label: Contactez-nous
     link: https://www.roadenn.com/contact/
 feature:
   enable: true

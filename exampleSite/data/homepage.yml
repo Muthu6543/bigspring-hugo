@@ -23,7 +23,8 @@ feature:
       conditions possibles
   - name: Lean Six Sigma
     icon: ti-stats-up
-    content: Smooth processes and remove impediments to improve your global efficiency
+    content: Lissez les processus et éliminez les obstacles pour améliorer votre efficacité
+      globale
   - name: Business Analysis
     icon: ti-zoom-in
     content: Analyze deeper your business to improve your turnover and find cost optimization

@@ -44,7 +44,7 @@ logo_width = "200px"
 [params.navigation_button]
 enable = true
 label = "Contactez-Nous"
-link = "contact"
+link = "https://meetings.hubspot.com/tanguylebarber"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]

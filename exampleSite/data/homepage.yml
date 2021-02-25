@@ -34,18 +34,18 @@ feature:
 service:
   enable: true
   service_item:
-  - title: It is the most advanced digital marketing and it company.
+  - title: Opérer une transformation digitale pour ouvrir de nouvelles sources de
+      revenus
     images:
     - images/service-1.png
     - images/service-2.png
     - images/service-3.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: Avec notre expertise sur le développement d'écosystèmes ultra-dynamiques
+      en ASEAN, nous sommes en mesure de vous transmettre les bons réflexes pour trouver
+      de nouvelles sources de revenus et ainsi accroître votre compétitivité dans
+      un contexte économique de plus en plus exigent.
     button:
-      enable: true
+      enable: false
       label: Check it out
       link: "#"
   - title: It is a privately owned Information and cyber security company

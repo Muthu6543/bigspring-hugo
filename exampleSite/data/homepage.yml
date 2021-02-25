@@ -35,7 +35,7 @@ feature:
       la valeur pour votre entreprise
   - name: Automatisation des processus (RPA)
     icon: ti-rocket
-    content: Améliorez les performances des processus grâce au numérique et à l'automatisation
+    content: Améliorer les performances des processus grâce au numérique et à l'automatisation
 service:
   enable: true
   service_item:

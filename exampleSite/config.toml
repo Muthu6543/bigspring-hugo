@@ -10,34 +10,26 @@ title = "Roadenn"
 [markup.goldmark.renderer]
 unsafe = true
 [menu]
+footer_right = []
 main = []
-[[menu.footer_left]]
-URL = "#"
-name = "About Us"
 [[menu.footer_left]]
 URL = "#"
 name = "Blog"
 [[menu.footer_left]]
-URL = "#"
-name = "Contact"
+URL = "https://www.linkedin.com/company/roadenn"
+name = "Linkedin"
+[[menu.footer_left]]
+URL = "https://twitter.com/tanguylebarber"
+name = "Twitter"
 [[menu.footer_middle]]
-URL = "pricing"
-name = "Pricing"
-[[menu.footer_middle]]
-URL = "#"
-name = "Platform"
-[[menu.footer_middle]]
-URL = "#"
-name = "Features"
-[[menu.footer_right]]
 URL = "https://frenchtechvietnam.com/"
-name = "FTV Website"
-[[menu.footer_right]]
+name = "Site Internet"
+[[menu.footer_middle]]
 URL = "https://www.linkedin.com/company/frenchtechvietnam"
-name = "FTV Linkedin"
-[[menu.footer_right]]
+name = "Linkedin"
+[[menu.footer_middle]]
 URL = "https://twitter.com/FrenchTechViet"
-name = "FTV Twitter"
+name = "Twitter"
 [params]
 author = "Tanguy LE BARBER"
 contact_form_action = "#"

@@ -29,9 +29,9 @@ feature:
     icon: ti-zoom-in
     content: Analysez plus en profondeur votre entreprise pour améliorer votre chiffre
       d'affaires et trouver une optimisation des coûts
-  - name: Data Analytics
+  - name: Analyse de données
     icon: ti-bar-chart
-    content: Collect, process and analyze your data to empower your business
+    content: Collectez, traitez et analysez vos données pour autonomiser votre entreprise
   - name: Robot Process Automation
     icon: ti-rocket
     content: Improve process performances with digital and automation

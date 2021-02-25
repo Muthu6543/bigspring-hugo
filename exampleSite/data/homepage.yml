@@ -54,7 +54,8 @@ service:
       label: Check it out
       link: "#"
   - title: La conduite du changement n'a jamais été aussi omniprésente
-    images: []
+    images:
+    - images/service-1.png
     content: Avant le Covid-19, la conduite du changement, c'était plutôt un gros
       un projet avec une fin. Maintenant, le changement est permanent. Parfois sollicite,
       parfois subis. Nous vous aidons à reprendre les rênes de votre activité dans

@@ -75,16 +75,14 @@ service:
       enable: false
       label: Check it out
       link: "#"
-  - title: A company standing different from others
+  - title: Automatiser son activite pour se concentrer sur la creation de valeur
     images:
     - images/service-3.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: |-
+      Le monde des affaires ne donne plus le temps d'attendre. L'instantanéité, l
+      infobésité, l'abondance d'offres font que nous ne pouvons plus nous permettre de compter uniquement sur nos capacités humaines. Chez Roadenn nous créons des outils qui permettent l'automatisation de tâches à faible valeur ajoutée pour permettre à l'entreprise de garder le focus sur le plus important, les clients et leur satisfaction.
     button:
-      enable: true
+      enable: false
       label: Check it out
       link: "#"
 screenshot:

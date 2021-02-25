@@ -32,9 +32,9 @@ feature:
   - name: Analyse de données
     icon: ti-bar-chart
     content: Collectez, traitez et analysez vos données pour autonomiser votre entreprise
-  - name: Robot Process Automation
+  - name: Automatisation des processus (RPA)
     icon: ti-rocket
-    content: Improve process performances with digital and automation
+    content: Améliorez les performances des processus grâce au numérique et à l'automatisation
 service:
   enable: true
   service_item:

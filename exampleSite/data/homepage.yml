@@ -13,9 +13,10 @@ feature:
   enable: true
   title: How We Help Our Customers
   feature_item:
-  - name: Digital Transformation
+  - name: Transformation digitale
     icon: ti-settings
-    content: Find new business model and make your company, pioneer of your industry
+    content: Trouvez de nouveaux modèles économiques et faites de votre entreprise
+      une pionnière de votre industrie
   - name: Change Management
     icon: ti-direction-alt
     content: Accompany your business to the new norm in the best possible condition

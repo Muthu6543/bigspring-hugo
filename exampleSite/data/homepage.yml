@@ -8,7 +8,7 @@ banner:
   button:
     enable: true
     label: Contactez-Nous
-    link: contact
+    link: https://form.typeform.com/to/ASAPxXgW
 feature:
   enable: true
   title: Comment Nous Aidons Nos Clients
@@ -100,4 +100,4 @@ call_to_action:
   button:
     enable: true
     label: Contactez-Nous
-    link: contact
+    link: https://form.typeform.com/to/ASAPxXgW

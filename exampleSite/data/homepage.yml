@@ -27,8 +27,8 @@ feature:
       sur un processus ou au globale
   - name: Analyse du Business
     icon: ti-zoom-in
-    content: Analysez plus en profondeur votre entreprise pour améliorer votre chiffre
-      d'affaires et trouver une optimisation des coûts
+    content: Analysez plus en profondeur votre entreprise pour trouver croissance
+      et optimisation
   - name: Analyse de données
     icon: ti-bar-chart
     content: Collectez, traitez et analysez vos données pour autonomiser votre entreprise

@@ -15,7 +15,7 @@ feature:
   feature_item:
   - name: Transformation digitale
     icon: ti-settings
-    content: Trouvez de nouveaux modèles économiques que votre entreprise devienne
+    content: Trouver de nouveaux modèles économiques que votre entreprise devienne
       un leader du marché
   - name: Conduite du changement
     icon: ti-direction-alt

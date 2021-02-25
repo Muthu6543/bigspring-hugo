@@ -17,9 +17,10 @@ feature:
     icon: ti-settings
     content: Trouvez de nouveaux modèles économiques et faites de votre entreprise
       une pionnière de votre industrie
-  - name: Change Management
+  - name: Conduite du changement
     icon: ti-direction-alt
-    content: Accompany your business to the new norm in the best possible condition
+    content: Accompagnez votre entreprise à la nouvelle "norme" dans les meilleures
+      conditions possibles
   - name: Lean Six Sigma
     icon: ti-stats-up
     content: Smooth processes and remove impediments to improve your global efficiency

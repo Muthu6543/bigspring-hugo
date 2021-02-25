@@ -11,7 +11,7 @@ banner:
     link: https://www.roadenn.com/contact/
 feature:
   enable: true
-  title: How We Help Our Customers
+  title: Comment Nous Aidons Nos Clients
   feature_item:
   - name: Transformation digitale
     icon: ti-settings

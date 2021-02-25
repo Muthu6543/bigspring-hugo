@@ -95,5 +95,5 @@ call_to_action:
     pour le développement de BPO. Contactez-nous pour obtenir une consultation gratuite. '
   button:
     enable: true
-    label: Contact Us
+    label: Contactez-nous
     link: contact

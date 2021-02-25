@@ -23,7 +23,7 @@ feature:
       conditions possibles
   - name: Lean Six Sigma
     icon: ti-stats-up
-    content: Lissez les processus et éliminez les obstacles pour améliorer votre efficacité
+    content: Lisser les processus et éliminer les obstacles pour améliorer votre efficacité
       sur un processus ou au globale
   - name: Analyse du Business
     icon: ti-zoom-in

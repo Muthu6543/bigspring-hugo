@@ -63,16 +63,16 @@ service:
       enable: false
       label: Check it out
       link: "#"
-  - title: It’s a team of experienced and skilled people with distributions
+  - title: Mieux se comprendre pour mieux performer
     images:
     - images/service-2.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: Nous accompagnons les entreprises dans l'analyse de leurs activités et
+      de leurs données afin d'en tirer des bénéfices. Nous prenons les problématiques
+      des deux bouts, soit en partant de la problématique business et en trouvant
+      la réponse dans les données, soit en partant des données pour trouver des sources
+      d'amélioration du business.
     button:
-      enable: true
+      enable: false
       label: Check it out
       link: "#"
   - title: A company standing different from others

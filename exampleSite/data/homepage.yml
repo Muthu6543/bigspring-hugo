@@ -31,7 +31,8 @@ feature:
       et optimisation
   - name: Analyse de données
     icon: ti-bar-chart
-    content: Collectez, traitez et analysez vos données pour autonomiser votre entreprise
+    content: Collectez, stockez, traitez et analysez vos données et ainsi créez de
+      la valeur pour votre entreprise
   - name: Automatisation des processus (RPA)
     icon: ti-rocket
     content: Améliorez les performances des processus grâce au numérique et à l'automatisation

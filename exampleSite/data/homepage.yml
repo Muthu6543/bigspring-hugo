@@ -1,10 +1,10 @@
 ---
 banner:
-  title: Together we operate your most critical <br> digital transformation challenges
+  title: Ensemble, nous relevons vos défis <br> de transformation, les plus critiques
   image: images/banner-art.png
-  content: At Roadenn, we accompany businesses from start-ups to corporate to support
-    their digital transformation <br> and conduct changement management in a constantly
-    changing economical context
+  content: 'Chez Roadenn, nous accompagnons les entreprises de la start-up à la grande
+    entreprise dans leur transformation digitale <br> et leur conduite du changement
+    dans un contexte économique en constante évolution '
   button:
     enable: true
     label: Contact With Us

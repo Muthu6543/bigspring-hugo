@@ -44,7 +44,7 @@ logo_width = "200px"
 [params.navigation_button]
 enable = true
 label = "Contactez-Nous"
-link = "https://meetings.hubspot.com/tanguylebarber"
+link = "tanguy.lebarber@roadenn.com"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]

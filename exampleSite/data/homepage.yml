@@ -36,6 +36,7 @@ feature:
   - name: Automatisation des processus (RPA)
     icon: ti-rocket
     content: Améliorez les performances des processus grâce au numérique et à l'automatisation
+      pour garder le focus
 service:
   enable: true
   service_item:

@@ -25,9 +25,10 @@ feature:
     icon: ti-stats-up
     content: Lissez les processus et éliminez les obstacles pour améliorer votre efficacité
       globale
-  - name: Business Analysis
+  - name: Analyse du Business
     icon: ti-zoom-in
-    content: Analyze deeper your business to improve your turnover and find cost optimization
+    content: Analysez plus en profondeur votre entreprise pour améliorer votre chiffre
+      d'affaires et trouver une optimisation des coûts
   - name: Data Analytics
     icon: ti-bar-chart
     content: Collect, process and analyze your data to empower your business

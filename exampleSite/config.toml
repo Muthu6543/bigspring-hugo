@@ -45,8 +45,8 @@ copyright = "Powered By [Tanguy LE BARBER](https://www.linkedin.com/in/tanguyleb
 description = "Roadenn une société de conseil pour votre transformation digitale"
 footer_content = "Société de Conseil en Transformation Digitale & Conduite du Changement - Nous sommes membre de la French Tech Vietnam"
 footer_menu_left = "Roadenn"
-footer_menu_middle = "Product"
-footer_menu_right = "French Tech Vietnam"
+footer_menu_middle = "French Tech Vietnam"
+footer_menu_right = ""
 logo = "/images/roadenn2-1.png"
 logo_width = "200px"
 [params.navigation_button]

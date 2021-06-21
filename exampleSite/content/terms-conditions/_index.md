@@ -4,11 +4,11 @@ subtitle: ''
 description: This is meta description
 
 ---
-#### Terms and Conditions
+## Terms and Conditions
 
 Last updated: August 20, 2019
 
-Please read these Terms and Conditions ("Terms", "Terms and Conditions") carefully before using the [https://spendwise.io](https://spendwise.io "https://spendwise.io") website (the "Service") operated by Spendwise ("us", "we", or "our").
+Please read these Terms and Conditions ("Terms", "Terms and Conditions") carefully before using the [https://www.bebocard.com](https://www.bebocard.com "BeboCard") website (the "Service") operated by Spendwise ("us", "we", or "our").
 
 Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who access or use the Service. You warrant that you are at least 18-years-old and you are legally capable of entering into binding contracts. If you are under 18-years-old, you warrant that you have obtained consent from your parent or guardian and they agree to be bound by these Terms on your behalf.
 
@@ -123,5 +123,3 @@ It is your sole responsibility to periodically check these Terms for any changes
 If you have any questions about these Terms, please contact us.
 
 This website uses cookies to enhance user experience.
-
-X

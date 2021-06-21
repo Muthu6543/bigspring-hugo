@@ -22,13 +22,13 @@ name = "Linkedin"
 URL = "https://twitter.com/"
 name = "Twitter"
 [[menu.footer_middle]]
-URL = "https://frenchtechvietnam.com/"
+URL = "https://www.bebocard.com/"
 name = "Site Internet"
 [[menu.footer_middle]]
-URL = "https://www.linkedin.com/company/frenchtechvietnam"
+URL = "https://www.linkedin.com"
 name = "Linkedin"
 [[menu.footer_middle]]
-URL = "https://twitter.com/FrenchTechViet"
+URL = "https://twitter.com/"
 name = "Twitter"
 [params]
 author = "MuthuPrabu"

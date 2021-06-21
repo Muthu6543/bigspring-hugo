@@ -39,7 +39,7 @@ footer_content = "The best the users can get"
 footer_menu_left = "BeboCard"
 footer_menu_middle = "ff"
 footer_menu_right = ""
-logo = "/images/BeboCardLogo3.jpg"
+logo = "/images/bebo.png"
 logo_width = "200px"
 [params.navigation_button]
 enable = true

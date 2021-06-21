@@ -32,7 +32,7 @@ URL = "https://twitter.com/FrenchTechViet"
 name = "Twitter"
 [params]
 author = "MuthuPrabu"
-contact_form_action = "#"
+contact_form_action = "NewSub"
 copyright = "Powered By [BeboCard](https://www.linkedin.com/) Design By [Bebocard](https://www.bebocard.com/) Develop By [Gethugothemes](https://gethugothemes.com/)"
 description = "BeboCard provides with products enable customers"
 footer_content = "The best the users can get"
@@ -43,7 +43,7 @@ logo = "/images/bebo.png"
 logo_width = "200px"
 [params.navigation_button]
 enable = true
-label = "Contactez-Nous"
+label = "Contact Us"
 link = "https://form.typeform.com/to/ASAPxXgW"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"

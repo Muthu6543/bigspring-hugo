@@ -66,5 +66,5 @@ link = "https://www.linkedin.com/"
 title = "Linkedin"
 [[params.social]]
 icon = "ti-twitter-alt"
-link = "https://twitter.com/tanguylebarber"
+link = "https://twitter.com/"
 title = "Twitter"
